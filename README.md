@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o **Diego Herold Fernandes** 🚀  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=4000&color=6A5ACD&center=true&vCenter=true&lines=Desenvolvedor+Web+%7C+Estudante+de+TI;Apaixonado+por+Tecnologia+e+Aprendizado+constante!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=4000&color=6A5ACD&center=true&vCenter=true&lines=Desenvolvedor+Web;%7C+Estudante+de+TI;Apaixonado+por+Tecnologia+e+Aprendizado+constante!)](https://git.io/typing-svg)
 
 ---
 
