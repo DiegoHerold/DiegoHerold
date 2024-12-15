@@ -36,7 +36,7 @@ Busco sempre evoluir minhas habilidades em programação, colaborar em projetos 
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoHeroldtheme=dracula" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoHerold&theme=dracula" alt="GitHub Activity Graph">
 </p>
 
 ---
