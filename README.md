@@ -1,5 +1,4 @@
 # 👋 Olá, eu sou o **Diego Herold Fernandes** 🚀  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Olá,+eu+sou+Diego!;Desenvolvedor+Web+em+aprendizado;)](https://git.io/typing-svg)
 
 ## 🧑‍💻 Sobre Mim  
 Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado constante.  
