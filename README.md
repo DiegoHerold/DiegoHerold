@@ -24,7 +24,7 @@ Busco sempre evoluir minhas habilidades em programação, colaborar em projetos 
 ## 📊 **Estatísticas do GitHub**  
 
 <div align="center">
-  <a href="https://github.com/SeuNome">
+  <a href="https://github.com/DiegoHerold">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuNome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNome&layout=compact&langs_count=7&theme=dracula"/>
   </a>
@@ -36,7 +36,7 @@ Busco sempre evoluir minhas habilidades em programação, colaborar em projetos 
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeuNome&theme=dracula" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoHeroldtheme=dracula" alt="GitHub Activity Graph">
 </p>
 
 ---
