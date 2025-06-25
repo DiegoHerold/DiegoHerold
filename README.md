@@ -55,7 +55,7 @@ Busco sempre evoluir minhas habilidades em programação, colaborar em projetos 
 
 ## 📫 **Contato**  
 - **Email:** [diego.herold.fernandes@gmail.com](mailto:diego.herold.fernandes@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/seu-nome](#)  
+- **LinkedIn:** [linkedin.com/in/diegoherold](www.linkedin.com/in/diegoherold)  
 
 ---
 
