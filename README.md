@@ -1,16 +1,19 @@
 # 👋 Olá, eu sou o **Diego Herold Fernandes** 🚀  
 
 ## 🧑‍💻 Sobre Mim  
-Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado constante.  
-Busco sempre evoluir minhas habilidades em programação, colaborar em projetos inovadores e contribuir com a comunidade de tecnologia.  
+👋 Olá! Sou apaixonado por tecnologia e por criar soluções que realmente fazem a diferença no dia a dia.
+
+Atualmente, estou focado em backend, desenvolvimento de APIs e automações — gosto de construir ferramentas que otimizam tarefas e tornam processos mais eficientes. Estou sempre buscando aprender e evoluir de forma prática, com foco em aplicabilidade.
+
+Meu objetivo é crescer como desenvolvedor, criando projetos úteis, bem estruturados e que tenham impacto real. 
 
 ---
 
 ## 🚀 **Habilidades Técnicas**
 
 ### 💻 **Desenvolvimento Web**  
-- **Frontend:** HTML | CSS | JavaScript | React | Bootstrap  
-- **Backend:** Java | APIs REST  
+- **Frontend:** HTML | CSS | JavaScript | React | Bootstrap
+- **Backend:** JavaScript | TypeScript | APIs REST  
 - **Banco de Dados:** MongoDB | MySQL  
 
 ### 🛠️ **Ferramentas e Outras Tecnologias**  
