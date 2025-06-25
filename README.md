@@ -41,18 +41,6 @@ Busco sempre evoluir minhas habilidades em programação, colaborar em projetos 
 
 ---
 
-## 🎯 **Meus Projetos**  
-
-### 🚀 Projetos Principais  
-- [**Projeto Nome 1**](link-do-projeto): Descrição breve do projeto.  
-- [**Projeto Nome 2**](link-do-projeto): Descrição breve do projeto.  
-
-### 🧩 Projetos de Aprendizado  
-- [**Desafio JavaScript**](link): Exercícios focados em lógica de programação.  
-- [**Mini Sistema CRUD**](link): Aplicação CRUD com React e Node.js.
-
----
-
 ## 📫 **Contato**  
 - **Email:** [diego.herold.fernandes@gmail.com](mailto:diego.herold.fernandes@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/diegoherold](www.linkedin.com/in/diegoherold)  
